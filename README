@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3528
+
+This syntax highlighting script it is based on http://www.vim.org/scripts/script.php?script_id=1141 by Vladimir Kotal.
+I've added many more keywords and ipv6 support.
